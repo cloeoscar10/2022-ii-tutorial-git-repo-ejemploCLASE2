@@ -3,7 +3,7 @@ Línea 2.2
 # Perfil académico
 **Nombre**: Oscar Vásquez Bolaños  
 **Profesión**: Biólogo  
-![Moly] (2022-ii-tutorial-git-repo-ejemploCLASE2/Moly.jpg)
+![Moly] (C:\Users\oscar\Documents\Master\UCR\Semestre I\Programación en R\2022-ii-tutorial-git-repo-ejemploCLASE2/Moly)
 
 ## Áreas de interés
 1. Manejo Integrado del Recurso Hídrico
