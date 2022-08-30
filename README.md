@@ -1,10 +1,10 @@
 
 # Perfil académico
 
-**Nombre**: Oscar Vásquez Bolaños\
-**Profesión**: Biólogo\
+**Nombre**: Oscar Vásquez Bolaños
+**Profesión**: Biólogo
 
-![Moly](Moly.jpg)
+![mayfly](mayfly.jpg)
 
 ## Áreas de interés
 
