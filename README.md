@@ -4,7 +4,7 @@
 **Nombre**: Oscar Vásquez Bolaños
 **Profesión**: Biólogo
 
-![mayfly](mayfly.jpg)
+![mayfly](mayfly)
 
 ## Áreas de interés
 
